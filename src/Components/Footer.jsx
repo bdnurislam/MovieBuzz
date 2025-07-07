@@ -40,7 +40,7 @@ export const Footer = () => {
                 className="hover:underline me-4 md:me-6"
                 target="_blank"
               >
-                Twitter
+                Twitter or X
               </a>
             </li>
             <li>
